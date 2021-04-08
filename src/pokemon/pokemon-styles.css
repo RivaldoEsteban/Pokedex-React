@@ -1,0 +1,42 @@
+.card-pokemon {
+  border: 1px solid red;
+  max-width: 500px;
+  margin: 50px auto;
+  background: #ee0979;
+  padding: 0 40px;
+  background: -webkit-linear-gradient(to bottom, #ff6a00, #ee0979);
+  background: linear-gradient(to bottom, #ff6a00, #ee0979);
+  border-radius: 25px;
+}
+
+.name-pokemon {
+  text-align: center;
+  text-transform: capitalize;
+  color: white;
+  font-weight: bolder;
+  text-shadow: 0px 0px 1px rgba(0, 0, 0, 1);
+  margin: 20px auto;
+}
+
+.image-pokemon {
+  border: 1px solid red;
+  width: 200px;
+  margin: 20px auto;
+  display: block;
+  background: white;
+  border-radius: 50%;
+  box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.input {
+  border: 1px solid red;
+  width: 90%;
+  display: block;
+  margin: 30px auto;
+  padding: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  outline: none;
+  text-align: center;
+  font-size: 20px;
+}
