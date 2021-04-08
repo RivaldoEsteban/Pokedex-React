@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc214d33.chunk.css",
-    "main.js": "/static/js/main.db13fb38.chunk.js",
-    "main.js.map": "/static/js/main.db13fb38.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.240644dc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.240644dc.js.map",
-    "static/js/2.86f11802.chunk.js": "/static/js/2.86f11802.chunk.js",
-    "static/js/2.86f11802.chunk.js.map": "/static/js/2.86f11802.chunk.js.map",
-    "static/js/3.ba85896f.chunk.js": "/static/js/3.ba85896f.chunk.js",
-    "static/js/3.ba85896f.chunk.js.map": "/static/js/3.ba85896f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.dc214d33.chunk.css.map": "/static/css/main.dc214d33.chunk.css.map",
-    "static/js/2.86f11802.chunk.js.LICENSE.txt": "/static/js/2.86f11802.chunk.js.LICENSE.txt"
+    "main.css": "/RivaldoEsteban/Pokedex-React/static/css/main.dc214d33.chunk.css",
+    "main.js": "/RivaldoEsteban/Pokedex-React/static/js/main.db13fb38.chunk.js",
+    "main.js.map": "/RivaldoEsteban/Pokedex-React/static/js/main.db13fb38.chunk.js.map",
+    "runtime-main.js": "/RivaldoEsteban/Pokedex-React/static/js/runtime-main.08fcf188.js",
+    "runtime-main.js.map": "/RivaldoEsteban/Pokedex-React/static/js/runtime-main.08fcf188.js.map",
+    "static/js/2.86f11802.chunk.js": "/RivaldoEsteban/Pokedex-React/static/js/2.86f11802.chunk.js",
+    "static/js/2.86f11802.chunk.js.map": "/RivaldoEsteban/Pokedex-React/static/js/2.86f11802.chunk.js.map",
+    "static/js/3.ba85896f.chunk.js": "/RivaldoEsteban/Pokedex-React/static/js/3.ba85896f.chunk.js",
+    "static/js/3.ba85896f.chunk.js.map": "/RivaldoEsteban/Pokedex-React/static/js/3.ba85896f.chunk.js.map",
+    "index.html": "/RivaldoEsteban/Pokedex-React/index.html",
+    "static/css/main.dc214d33.chunk.css.map": "/RivaldoEsteban/Pokedex-React/static/css/main.dc214d33.chunk.css.map",
+    "static/js/2.86f11802.chunk.js.LICENSE.txt": "/RivaldoEsteban/Pokedex-React/static/js/2.86f11802.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.240644dc.js",
+    "static/js/runtime-main.08fcf188.js",
     "static/js/2.86f11802.chunk.js",
     "static/css/main.dc214d33.chunk.css",
     "static/js/main.db13fb38.chunk.js"
